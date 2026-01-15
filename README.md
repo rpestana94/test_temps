@@ -13,6 +13,7 @@ El sdk se puede descargar desde: https://www.dji.com/mx/downloads/softwares/dji-
 2. Hay exportar donde se encuentran estos archivos y la carpeta de las librerias usando:
 
 export DJI_DIRP_DIR="PATH_TO_DJI/dji_thermal_sdk/utility/bin/linux/release_x64"
+
 export LD_LIBRARY_PATH="PATH_TO_DJI/dji_thermal_sdk/utility/bin/linux/release_x64:$LD_LIBRARY_PATH"
 
 Esto se hace en la consola donde se ejecutar el comando para obtener la imagen raw, tambien se pueden agregar al archivo bashrc y reiniciar la consola
