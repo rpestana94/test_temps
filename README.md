@@ -20,6 +20,6 @@ Esto se hace en la consola donde se ejecutar el comando para obtener la imagen r
 
 3. Para convertir una imagen de jpg a raw se usa:
 
-PATH_TO_DJI/dji_thermal_sdk/utility/bin/linux/release_x64/dji_irp -s PATH_TO_IMAGEN -a measure -o ARCHIVO.raw --measurefmt float32
+PATH_TO_DJI/dji_thermal_sdk/utility/bin/linux/release_x64/dji_irp -s PATH_TO_IMAGEN.jpg -a measure -o ARCHIVO.raw --measurefmt float32
 
 4. Usar la imagen raw dentro del codigo python temp_roi.py, reemplazar linea 6 por el path de la imagen raw
