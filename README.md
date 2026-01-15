@@ -8,6 +8,8 @@
 
 Esto se puede conseguir usando: chmod +x dji_ircm
 
+El sdk se puede descargar desde: https://www.dji.com/mx/downloads/softwares/dji-thermal-sdk?backup_page=index&target=mx
+
 2. Hay exportar donde se encuentran estos archivos y la carpeta de las librerias usando:
 
 export DJI_DIRP_DIR="PATH_TO_DJI/dji_thermal_sdk/utility/bin/linux/release_x64"
