@@ -6,7 +6,7 @@
 	- dji_irp
 	- dji_irp_omp
 
-Esto se puede conseguir usando: chmod +x dji_ircm
+Esto se puede conseguir usando: chmod +x dji_irp
 
 El sdk se puede descargar desde: https://www.dji.com/mx/downloads/softwares/dji-thermal-sdk?backup_page=index&target=mx
 
